@@ -1,6 +1,8 @@
 # WebcamTRNG
 True random number generator using webcam
 
+More features coming soon😉
+
 ![mainwindow](/Screenshot/mainwindow.jpg)
 
 # ❤ Donate 捐赠 ❤ (PayPal, 支付宝&微信)
