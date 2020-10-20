@@ -1,7 +1,7 @@
 # WebcamTRNG
 True random number generator using webcam, inspired by [Cloudflare's Lava Lamp Encryption.](https://www.cloudflare.com/en-gb/learning/ssl/lava-lamp-encryption/)
 
-But you don't need a `Lava Lamp` to use this program, because there are many completely random noise in webcam's picture, so all you need is a shitty webcam (which most of the laptops already have one). Then here you go, a simple TRNG.
+But you `DO NOT` need a `Lava Lamp` to use this program, because there are many completely random noise in webcam's picture, so all you need is a shitty webcam (which most of the laptops already have one). Then here you go, a simple TRNG.
 
 More features coming soon😉
 
